@@ -1,1 +1,1 @@
-"" 
+An individual project done for Accolade - The Study Centre. This is a complete website done with the aid of the CodeIgniter Architecture as a framework. The backend was developed using PHP, jQuery while MySQL was used to develop the database, XAMPP was used as the local server. The frontend was developed using HTML, CSS and Bootstrap. 
